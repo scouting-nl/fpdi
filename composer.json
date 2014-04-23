@@ -27,7 +27,7 @@
 		"filters",
 		"fpdi.php",
 		"fpdf_tpl.php",
-		"fpdf_bridge.php",
+		"fpdi_bridge.php",
 		"fpdi_pdf_parser.php",		
 		"pdf_context.php",
 		"pdf_parser.php"
