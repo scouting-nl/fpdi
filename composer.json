@@ -21,7 +21,7 @@
         "php": ">=5.3.0",
 		"ext-zlib": "*",
 		"tecnick.com/tcpdf": "6.0.*",
-		"itbz/fpdp": "1.7.*"
+		"itbz/fpdf": "1.7.*"
 	},
 	"autoload": {
 		"classmap": [
