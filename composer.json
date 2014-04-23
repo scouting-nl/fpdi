@@ -7,13 +7,17 @@
     "authors": [
         {
             "name": "Jan Slabon",
-            "email": "info@setasign.com"
+            "email": "info@setasign.com",
 			"role": "Developer"
         },
 		{
             "name": "Team Internet",
-            "email": "teaminternet@scouting.nl"
+            "email": "teaminternet@scouting.nl",
 			"role": "Maintainer GIT"
         },
     ],
+	"require": {
+        "php": ">=5.3.0",
+		"ext-zlib": "*"
+	}
 }
