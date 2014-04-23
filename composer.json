@@ -14,7 +14,7 @@
             "name": "Team Internet",
             "email": "teaminternet@scouting.nl",
 			"role": "Maintainer GIT"
-        },
+        }
     ],
 	"require": {
         "php": ">=5.3.0",
