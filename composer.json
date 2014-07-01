@@ -1,7 +1,7 @@
 {
     "name": "scouting-nl/fpdi",
     "description": "FPDI is a collection of PHP classes facilitating developers to read pages from existing PDF documents and use them as templates in FPDF",
-	"version": "1.5.1",
+	"version": "1.5.2",
     "type": "library",
     "homepage": "http://www.setasign.de",
     "license": "Apache-2.0",
